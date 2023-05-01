@@ -6,7 +6,7 @@
 
 
 <h2>Description</h2>
-In this exciting demonstration, we will create a powerful RAID array using four  SATA hard drives. We'll be adding two dynamic volumes with distinct purposes:
+In this exciting demonstration, we will create a powerful RAID array using four  SATA hard drives to serve our video editing workstation. We'll be adding two dynamic volumes with distinct purposes:
 
 First up is the Editing volume, specially designed to store massive amounts of raw video files that are crucial for top-notch editing. With this volume, we'll have lightning-fast access to all of our video content, ensuring a seamless editing experience.
 
@@ -79,8 +79,8 @@ Select Yes to convert the disks to dynamic disks. Your final result should look 
 <img src="https://i.imgur.com/MsVOmTw.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/K9IIE18.png" height="80%" width="80%" alt="Create Raid Array"/>
+That's it! <br/>
+<img src="https://i.imgur.com/uhKlKpv.jpg"  alt="Create Raid Array"/>
 <br />
 <br />
 
