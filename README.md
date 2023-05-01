@@ -1,19 +1,20 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Create a Raid Array</h1>
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this exciting demonstration, we will create a powerful RAID array using four  SATA hard drives. We'll be adding two dynamic volumes with distinct purposes:
+
+First up is the Editing volume, specially designed to store massive amounts of raw video files that are crucial for top-notch editing. With this volume, we'll have lightning-fast access to all of our video content, ensuring a seamless editing experience.
+
+Next, we have the Media volume, a high-capacity storage solution built to house all of our digital photos and completed video files. And the best part? This volume is designed to provide fault tolerance in case of drive failure, giving us the ultimate peace of mind.
+
+So get ready to witness the power of our RAID array!
+
 <br />
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -22,28 +23,35 @@ Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Right-click Start and select Disk Management.
+Select GPT as the partition style.
+Select OK to initialize all disks.
+<br/>
+<img src="https://i.imgur.com/OcMGkdW.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2eQuXo3.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QTzQw3i.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bSLAXfj.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WXsNO5v.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K9IIE18.png" height="80%" width="80%" alt="Create Raid Array"/>
+
+
+
+
 </p>
 
 <!--
