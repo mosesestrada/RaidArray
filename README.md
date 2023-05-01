@@ -19,10 +19,7 @@ So get ready to witness the power of our RAID array!
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 Right-click Start and select Disk Management.
 Select GPT as the partition style.
 Select OK to initialize all disks.
@@ -30,7 +27,9 @@ Select OK to initialize all disks.
 <img src="https://i.imgur.com/OcMGkdW.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Right-click Disk 1 and select New Striped Volume.
+Select Next.
+ <br/>
 <img src="https://i.imgur.com/2eQuXo3.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
@@ -48,7 +47,24 @@ Sanitization complete:  <br/>
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/K9IIE18.png" height="80%" width="80%" alt="Create Raid Array"/>
-
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/ZIzjMdW.png" height="80%" width="80%" alt="Create Raid Array"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/oOWAQXr.png" height="80%" width="80%" alt="Create Raid Array"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/MsVOmTw.png" height="80%" width="80%" alt="Create Raid Array"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/K9IIE18.png" height="80%" width="80%" alt="Create Raid Array"/>
+<br />
+<br />
 
 
 
