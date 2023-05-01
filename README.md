@@ -61,7 +61,7 @@ Select Next.
 <img src="https://i.imgur.com/K9IIE18.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
-Under Available, select Disk 4. Select Add.
+Under Available, select Disk 4. Select Add. Then select next
  <br/>
 <img src="https://i.imgur.com/ZIzjMdW.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
