@@ -24,6 +24,10 @@ So get ready to witness the power of our RAID array!
 
 <p align="center">
 Right-click Start and select Disk Management.
+<br/>
+<img src="https://i.imgur.com/aTa9FVR.png" height="80%" width="80%" alt="Create Raid Array"/>
+<br />
+<br />
 Select GPT as the partition style.
 Select OK to initialize all disks.
 <br/>
