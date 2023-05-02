@@ -84,7 +84,7 @@ Select Yes to convert the disks to dynamic disks. Your final result should look 
 <br />
 <br />
 That's it! <br/>
-<img src="https://i.imgur.com/RbfcOzM.jpg" height="70%" width="70%"  alt="Create Raid Array"/>
+<img src="https://i.imgur.com/e2U2Rhh.jpg" height="70%" width="70%"  alt="Create Raid Array"/>
 <br />
 <br />
 
