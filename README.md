@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/aSvvHBC.jpg" alt="Raid Array logo"/>
+ <img src="https://i.imgur.com/aSvvHBC.jpg" height="70%" width="70%" alt="Raid Array logo"/>
 </p>
 
 <h1>Create a Raid Array</h1>
@@ -84,7 +84,7 @@ Select Yes to convert the disks to dynamic disks. Your final result should look 
 <br />
 <br />
 That's it! <br/>
-<img src="https://i.imgur.com/RbfcOzM.jpg"  alt="Create Raid Array"/>
+<img src="https://i.imgur.com/RbfcOzM.jpg" height="70%" width="70%"  alt="Create Raid Array"/>
 <br />
 <br />
 
