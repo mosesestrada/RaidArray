@@ -12,7 +12,6 @@ First up is the Editing volume, specially designed to store massive amounts of r
 
 Next, we have the Media volume, a high-capacity storage solution built to house all of our digital photos and completed video files. And the best part? This volume is designed to provide fault tolerance in case of drive failure, giving us the ultimate peace of mind.
 
-So get ready to witness the power of our RAID array!
 
 <br />
 
