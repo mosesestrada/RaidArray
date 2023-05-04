@@ -23,7 +23,7 @@ Next, we have the Media volume, a high-capacity storage solution built to house 
 <p align="center">
 Right-click Start and select Disk Management.
 <br/>
-<img src="https://i.imgur.com/aTa9FVR.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/IHADo5f.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Select GPT as the partition style.
