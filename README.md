@@ -23,24 +23,24 @@ Next, we have the Media volume, a high-capacity storage solution built to house 
 <p align="center">
 Right-click Start and select Disk Management.
 <br/>
-<img src="https://i.imgur.com/IHADo5f.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/Ou0iyWk.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Select GPT as the partition style.
 Select OK to initialize all disks.
 <br/>
-<img src="https://i.imgur.com/OcMGkdW.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/5pgHFHc.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Right-click Disk 1 and select New Striped Volume.
 Select Next.
  <br/>
-<img src="https://i.imgur.com/2eQuXo3.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/HNZWr18.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Under Available, select Disk 2 then select Add. Select Next.
  <br/>
-<img src="https://i.imgur.com/QTzQw3i.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/4kjUQI2.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Use the Assign the following drive letter drop-down list to select E.
@@ -50,22 +50,22 @@ Use Editing as the Volume label.
 Select Next.
 Select Finish.
  <br/>
-<img src="https://i.imgur.com/bSLAXfj.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/5T82WrP.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Select Yes to convert the disks to dynamic disks. <br/>
-<img src="https://i.imgur.com/WXsNO5v.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/Rotsec6.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Right-click Disk 3 and select New Mirrored Volume.
 Select Next.
  <br/>
-<img src="https://i.imgur.com/K9IIE18.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/PHwzNMf.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Under Available, select Disk 4. Select Add. Then select next
  <br/>
-<img src="https://i.imgur.com/ZIzjMdW.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/Maktl4z.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Use the Assign the following drive letter drop-down list to select M.
@@ -74,11 +74,11 @@ Make sure NTFS is selected as the file system.
 Use Media as the Volume label; then select Next.
 Select Finish.
  <br/>
-<img src="https://i.imgur.com/oOWAQXr.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/hR2IOsr.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 Select Yes to convert the disks to dynamic disks. Your final result should look like this <br/>
-<img src="https://i.imgur.com/MsVOmTw.png" height="70%" width="70%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/Ro3bvpj.png" height="70%" width="70%" alt="Create Raid Array"/>
 <br />
 <br />
 That's it, we're finished. Simple, right?<br/>
