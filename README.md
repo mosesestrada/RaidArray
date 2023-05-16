@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/aSvvHBC.jpg" height="80%" width="80%" alt="Raid Array logo"/>
+ <img src="https://i.imgur.com/qpjS2nm.jpg" height="80%" width="80%" alt="Raid Array logo"/>
 </p>
 
 <h1>Create a Raid Array</h1>
